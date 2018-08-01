@@ -1,0 +1,1 @@
+/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-gcc    -fPIC CMakeFiles/bigcpmtest.dir/bigcpm_test.o  -o bigcpmtest -rdynamic 

@@ -1,0 +1,4 @@
+http://www.altdevblogaday.com/2011/09/08/memory-allocation-pitfalls-on-multi-core-cpus/
+http://codereview.stackexchange.com/questions/15768/atomic-queue-thread-safe-and-lock-free-implementation-of-the-fifo-data-structu
+http://molecularmusings.wordpress.com/2011/07/15/memory-system-part-4/
+http://www.cs.usfca.edu/~benson/cs326/prj0/

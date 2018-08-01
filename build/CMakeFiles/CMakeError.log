@@ -1,0 +1,40 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-gcc 
+Build flags: -g;-O2;-mcpu=e500mc;-mspe=no;-mno-altivec;-fomit-frame-pointer;-pipe
+Id flags: 
+
+The output was:
+1
+CMakeCCompilerId.c:1: error: bad value (e500mc) for -mcpu= switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-gcc 
+Build flags: -g;-O2;-mcpu=e500mc;-mspe=no;-mno-altivec;-fomit-frame-pointer;-pipe
+Id flags: -c
+
+The output was:
+1
+CMakeCCompilerId.c:1: error: bad value (e500mc) for -mcpu= switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-c++ 
+Build flags: -g;-O2;-mcpu=e500mc;-mspe=no;-mno-altivec;-fomit-frame-pointer;-pipe
+Id flags: 
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:1: error: bad value (e500mc) for -mcpu= switch
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-c++ 
+Build flags: -g;-O2;-mcpu=e500mc;-mspe=no;-mno-altivec;-fomit-frame-pointer;-pipe
+Id flags: -c
+
+The output was:
+1
+CMakeCXXCompilerId.cpp:1: error: bad value (e500mc) for -mcpu= switch
+
+

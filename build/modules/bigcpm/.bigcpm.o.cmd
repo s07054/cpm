@@ -1,0 +1,1 @@
+cmd_/home/shuchen/pb01/kernel-d/bigcpm/build/modules/bigcpm/bigcpm.o := "powerpc-wrs-linux-gnu-"ld -m elf32ppc    -r -o /home/shuchen/pb01/kernel-d/bigcpm/build/modules/bigcpm/bigcpm.o /home/shuchen/pb01/kernel-d/bigcpm/build/modules/bigcpm/bigcpm_k.o 

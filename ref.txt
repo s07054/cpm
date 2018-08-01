@@ -1,0 +1,50 @@
+http://pete.akeo.ie/2011/08/writing-linux-device-driver-for-kernels.html
+
+
+http://blog.csdn.net/dreamtdp/article/details/8953864
+
+http://maxillusion.wordpress.com/2008/08/26/linux-device-driver-creates-sysfs-entry-and-generates-uevents/
+
+udev
+cannot create duplicate filename '/devices/virtual
+
+pcipool
+https://www.kernel.org/pub/linux/kernel/people/marcelo/linux-2.4/arch/arm/mach-sa1100/pcipool.c
+
+dmapool
+http://lxr.free-electrons.com/source/mm/dmapool.c
+
+dump system memory
+https://code.google.com/p/lime-forensics/source/browse/#svn%2Ftrunk%2Fsrc
+http://www.admin-magazine.com/Articles/Forensic-Analysis-on-Linux
+
+cdev
+http://rcjangir.blogspot.com/2012/08/example-of-char-device-driver.html
+http://www.opensourceforu.com/2011/04/character-device-files-creation-operations/
+
+CMA
+http://mina86.com/2012/06/10/deep-dive-into-contiguous-memory-allocator-part-i/
+
+page frame
+http://wiki.osdev.org/Page_Frame_Allocation
+
+
+http://stackoverflow.com/questions/19460544/how-do-i-allocate-a-dma-buffer-backed-by-1gb-hugepages-in-a-linux-kernel-module
+
+http://stackoverflow.com/questions/19740553/how-to-unmap-and-free-the-highmem-pages-in-linux-module
+
+http://stackoverflow.com/questions/11891979/accessing-mmaped-dev-mem
+
+lock free allocator
+http://stackoverflow.com/questions/1995871/how-to-write-a-thread-safe-and-efficient-lock-free-memory-allocator-in-c
+
+http://mina86.com/2012/06/10/deep-dive-into-contiguous-memory-allocator-part-i/
+
+
+mmap
+drivers/firewire/core-iso.c
+http://people.ee.ethz.ch/~arkeller/linux/multi/kernel_user_space_howto-8.html
+http://lwn.net/Articles/103952/
+
+
+http://stackoverflow.com/questions/8788289/how-remap-pfn-range-remaps-kernel-memory-to-user-space

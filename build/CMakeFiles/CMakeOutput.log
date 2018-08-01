@@ -1,0 +1,62 @@
+The target system is: Linux - 1 - powerpc
+The host system is: Linux - 2.6.18-238.9.1.el5PAE - i686
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/shuchen/pb01/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+gmake[1]: Entering directory `/prod/hdr/pb01/shuchen/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp'
+/optional/nwstools/ltetools/cmake-2.6.4-Linux-i386/bin/cmake -E cmake_progress_report /home/shuchen/pb01/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.o
+/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-gcc   -I/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/sysroot/usr/include -I/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/build/linux/include   -o CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.o   -c /home/shuchen/pb01/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTryCompileExec
+/optional/nwstools/ltetools/cmake-2.6.4-Linux-i386/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-gcc       -fPIC CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.o  -o cmTryCompileExec -rdynamic 
+gmake[1]: Leaving directory `/prod/hdr/pb01/shuchen/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/shuchen/pb01/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+gmake[1]: Entering directory `/prod/hdr/pb01/shuchen/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp'
+/optional/nwstools/ltetools/cmake-2.6.4-Linux-i386/bin/cmake -E cmake_progress_report /home/shuchen/pb01/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o
+/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-gcc   -I/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/sysroot/usr/include -I/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/build/linux/include   -o CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o   -c /optional/nwstools/ltetools/cmake-2.6.4-Linux-i386/share/cmake-2.6/Modules/CMakeCCompilerABI.c
+Linking C executable cmTryCompileExec
+/optional/nwstools/ltetools/cmake-2.6.4-Linux-i386/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-gcc       -fPIC CMakeFiles/cmTryCompileExec.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec -rdynamic 
+gmake[1]: Leaving directory `/prod/hdr/pb01/shuchen/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/shuchen/pb01/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+gmake[1]: Entering directory `/prod/hdr/pb01/shuchen/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp'
+/optional/nwstools/ltetools/cmake-2.6.4-Linux-i386/bin/cmake -E cmake_progress_report /home/shuchen/pb01/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/testCXXCompiler.cxx.o
+/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-c++    -I/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/sysroot/usr/include -I/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/build/linux/include   -o CMakeFiles/cmTryCompileExec.dir/testCXXCompiler.cxx.o -c /home/shuchen/pb01/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec
+/optional/nwstools/ltetools/cmake-2.6.4-Linux-i386/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-c++        -fPIC CMakeFiles/cmTryCompileExec.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec -rdynamic 
+gmake[1]: Leaving directory `/prod/hdr/pb01/shuchen/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/shuchen/pb01/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec.dir/build.make CMakeFiles/cmTryCompileExec.dir/build
+gmake[1]: Entering directory `/prod/hdr/pb01/shuchen/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp'
+/optional/nwstools/ltetools/cmake-2.6.4-Linux-i386/bin/cmake -E cmake_progress_report /home/shuchen/pb01/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o
+/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-c++    -I/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/sysroot/usr/include -I/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/build/linux/include   -o CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o -c /optional/nwstools/ltetools/cmake-2.6.4-Linux-i386/share/cmake-2.6/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTryCompileExec
+/optional/nwstools/ltetools/cmake-2.6.4-Linux-i386/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec.dir/link.txt --verbose=1
+/local/user_data/mkpne_shuchen_shuchen_pltf_lr14_CR/eccm2/export/sysroot/eccm2-glibc_small/x86-linux2/powerpc-wrs-linux-gnu-ppc_e500mc-glibc_small-c++        -fPIC CMakeFiles/cmTryCompileExec.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec -rdynamic 
+gmake[1]: Leaving directory `/prod/hdr/pb01/shuchen/kernel-d/bigcpm/build/CMakeFiles/CMakeTmp'
+
+
