@@ -1,6 +1,0 @@
-obj-m := bigcpm.o
-
-bigcpm-objs += bigcpm_k.o
-
-EXTRA_CFLAGS := -I/home/shuchen/pb01/kernel-d/bigcpm/include 
-EXTRA_CFLAGS += -DDEBUG -DCONFIG_SCHED_DEBUG_TRACE

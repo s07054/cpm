@@ -25,7 +25,6 @@ static struct class *cl;
 static int allocated=0;
 
 MODULE_LICENSE("Dual BSD/GPL");
-MODULE_AUTHOR("Steven Chen <email_at_alcatel-lucent_dot_com>");
 MODULE_DESCRIPTION("BIG CPM Char Driver");
 
 #ifdef DEBUG
